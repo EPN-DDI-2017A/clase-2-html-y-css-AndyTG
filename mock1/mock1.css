@@ -1,0 +1,40 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: Arial;
+
+}
+h1{
+    color: #fff;
+    margin: 0 auto;
+}
+.contenido{
+
+}
+.cabecera{
+    margin: 0;
+    padding-top:3%;
+    padding-left: 2%;
+    background-color: #33BEBE;
+    width: 100%;
+    text-align: left;
+    font-size: 200%;
+}
+.cont{
+    display: flex;
+    margin-top: 2%;
+}
+img{
+    width: 450px;
+    height: 450px;
+
+}
+.imagen{
+    margin: 2%;
+
+}
+.texto{
+    color: #7C8B88;
+    font-size: 35px;
+
+}
